@@ -1,0 +1,26 @@
+
+Body{
+    background-color: rgb(255, 255, 255);
+    background-image: url(../images/jungle.jpeg);
+  }
+  h1 {
+      color: beige;
+    text-align: center;
+  }
+  p{
+      color: white;
+  }
+  a{
+      color: white;
+  }
+  ul{
+      color: white;
+  }
+  .explain {
+font-style: italic;
+  }
+  .nav{
+      font-style: italic;
+      background-color: rgba(255, 255, 255, 0.3);
+      display: block
+  }
