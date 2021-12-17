@@ -11290,7 +11290,7 @@ textarea.form-control-lg {
   }
 }
 body {
-  background-image: linear-gradient(rgba(37, 150, 190, 0.25), rgba(47, 23, 15, 0.90)), url("../IMAGES/photo-1592288801240-7b18bb06e94f.jpeg");
+  background-image: linear-gradient(rgba(37, 150, 190, 0.25), rgba(47, 23, 15, 0.90)), url("../images/photo-1592288801240-7b18bb06e94f.jpeg");
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
@@ -11343,7 +11343,7 @@ p {
 
 .bg-faded {
   background-color: #9fa68c;
-  background-image: url(../IMAGES/jungle.jpeg) alt="Jungle";
+  background-image: url(../images/jungle.jpeg) alt="Jungle";
 
 
 }
